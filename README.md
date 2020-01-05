@@ -4,7 +4,7 @@
 Its my python practice
 There are different tasks for school
 
-Lets see!
+Let's see!
 
 🐍🐍🐍
 
