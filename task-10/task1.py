@@ -5,7 +5,7 @@ spo = input('Введите операцию(+,-,*,/)')
  if spo = '+':
     c = a + b
 elif spo = '-':
-    c = a - b
+      d = a - b
 elif spo == '*':
     q = a * b
 elif spo == '/':
