@@ -1,7 +1,7 @@
 # pyhton-practice
  
  Hi!
-Its my python practice
+Its my python practice.
 There are different tasks for school!
 
 
