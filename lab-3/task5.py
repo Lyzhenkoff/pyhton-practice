@@ -1,5 +1,9 @@
-nums = [1,3,5,1];
-for elem in nums:
-            if (elem > elem-1) and (elem > 1):
-                nums = elem - 2
-print(nums)
+a = input('Введите значение переменной ')
+b = input('Введите значение переменной ')
+c = 0
+
+c = a
+a = b
+b = c
+
+print(a,b)
