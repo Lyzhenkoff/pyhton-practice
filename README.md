@@ -3,6 +3,8 @@
 Hi!
 Its my python practice.
 There are different tasks for school!
+
+
 FOR NV
 
 
