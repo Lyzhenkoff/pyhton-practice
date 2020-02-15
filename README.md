@@ -7,7 +7,6 @@ There are different tasks for school!
 
 FOR NV
 
-
 Let's see!
 
 🐍🐍🐍
